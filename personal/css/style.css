@@ -245,7 +245,7 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
     position: fixed;
     top: 0;
     left: 0;
-    overflow: hidden;
+    /* overflow: hidden; */
     display: inline-block;
     background-color: #fff;
     box-shadow: 1px 1px 7px #e1e1e1;
@@ -779,7 +779,7 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
 .client-box .client-img{
     max-width: 50px;
     border-radius: 50px;
-    overflow: hidden;
+    /* overflow: hidden; */
     background-color: #e8e8e8;
     margin-bottom: 15px;
     display: inline-block;
@@ -1033,7 +1033,7 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
     }
     .slider-image{
         top: 0;
-        overflow: hidden;
+        /* overflow: hidden; */
     }
 }
 
